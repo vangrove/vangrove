@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 75 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(4.16667,0,0,4.16667,-12.5,-12.5)">
-        <path id="Combined-Shape" d="M3,16L5,16C5.552,16 6,15.552 6,15C6,14.448 5.552,14 5,14L3,14L3,12L5,12C5.552,12 6,11.552 6,11C6,10.448 5.552,10 5,10L3,10L3,8L5,8C5.552,8 6,7.552 6,7C6,6.448 5.552,6 5,6L3,6L3,4C3,3.448 3.448,3 4,3L10,3C10.552,3 11,3.448 11,4L11,19C11,19.552 10.552,20 10,20L4,20C3.448,20 3,19.552 3,19L3,16Z" style="fill:rgb(255,116,60);fill-opacity:0.3;"/>
-        <path id="Rectangle-102-Copy" d="M16,3L19,3C20.105,3 21,3.895 21,5L21,15.249C21,15.733 20.824,16.201 20.505,16.566L17.876,19.57C17.694,19.778 17.379,19.799 17.171,19.617C17.154,19.602 17.138,19.587 17.124,19.57L14.495,16.566C14.176,16.201 14,15.733 14,15.249L14,5C14,3.895 14.895,3 16,3Z" style="fill:rgb(58,0,140);"/>
-    </g>
-</svg>
